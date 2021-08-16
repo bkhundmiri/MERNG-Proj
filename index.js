@@ -20,4 +20,4 @@ mongoose
     .then((res) => {
         console.log(`Server running at ${res.url}`);
     })
-    .catch((err) => console.error("Connection Error:", err.message));
+    .catch((err) => console.error("Connection Errorr:", err.message));
